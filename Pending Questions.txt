@@ -1,0 +1,4 @@
+-> Aggressive Cow 
+-> Next Permutation ( Brute Force )
+-> Modulo Arthmetic 
+-> Permutation In String 
